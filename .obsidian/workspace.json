@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c817679ab379b8a7",
+        "id": "4c7cecddb95b2862",
         "type": "tabs",
         "children": [
           {
-            "id": "e459f0e8b9ef9e10",
+            "id": "5442d3a31fdc3844",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,46 +181,6 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e459f0e8b9ef9e10",
-  "lastOpenFiles": [
-    "99.Template/TASK.md",
-    "99.Template/TODO.md",
-    "01.TODO/2025-12-08.md",
-    "99.Template/WIKI.md",
-    "Inbox/레드마인이슈.md",
-    "01.TODO/ISSUE/레드마인이슈.md",
-    "01.TODO/ISSUE/테스트2.md",
-    "01.TODO/ISSUE/테스트1.md",
-    "01.TODO/ISSUE/테스트.md",
-    "01.TODO/ISSUE/`전자결재`.md",
-    "Inbox/무제.md",
-    "`테스트`.md",
-    "Clippings/ChatGPT 1.md",
-    "Clippings/ChatGPT 2.md",
-    "01.TODO/2025-12-05.md",
-    "01.TODO/ISSUE/모바일 게시판 점검.md",
-    "Clippings/ESLINT Custom Rules.md",
-    "Clippings/Metatag - Viewport.md",
-    "Clippings/ChatGPT.md",
-    "Clippings/Axios - Token renew.md",
-    "WORK.md",
-    "Files/Pasted image 20250905133733.png",
-    "02.WIKI/근무 관련.md",
-    "02.WIKI/분석/분석.md",
-    "02.WIKI/분석/요소 분석.md",
-    "Inbox/무제.base",
-    "01.TODO/ISSUE/전자결재 결재선 변경 순서 보장.md",
-    "01.TODO/UX/모바일, PC 라우팅.md",
-    "01.TODO/prev",
-    "01.TODO/ISSUE/포털",
-    "01.TODO/ISSUE",
-    "무제.canvas",
-    "01.TODO/UX/로그인",
-    "Files/Pasted image 20250905133811.png",
-    "01TODO/UX",
-    "01TODO",
-    "01.TODO/VDC",
-    "01.TODO/UX",
-    "Inbox/무제 1.base"
-  ]
+  "active": "92dbf9bccf97fa03",
+  "lastOpenFiles": []
 }
