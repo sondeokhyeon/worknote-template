@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "d427749383356a4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c817679ab379b8a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e459f0e8b9ef9e10",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "556c8585f70645ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "0856954f23207075",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92dbf9bccf97fa03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "ddc1438a9aab4018",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "19d3078dbb9dc562",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5124969482422
+  },
+  "right": {
+    "id": "38cd97c296967861",
+    "type": "split",
+    "children": [
+      {
+        "id": "1570c5aef1baa8a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b94819e35ab9f50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "fb98c57a49d78083",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "4c642a551670242f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "36d191e6de023925",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02.WIKI/분석/분석.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "분석 의 개요"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d85c9ec90d4c7997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ab09c63890e91b9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "zk-prefixer:새 고유 노트 생성": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e459f0e8b9ef9e10",
+  "lastOpenFiles": [
+    "99.Template/TASK.md",
+    "99.Template/TODO.md",
+    "01.TODO/2025-12-08.md",
+    "99.Template/WIKI.md",
+    "Inbox/레드마인이슈.md",
+    "01.TODO/ISSUE/레드마인이슈.md",
+    "01.TODO/ISSUE/테스트2.md",
+    "01.TODO/ISSUE/테스트1.md",
+    "01.TODO/ISSUE/테스트.md",
+    "01.TODO/ISSUE/`전자결재`.md",
+    "Inbox/무제.md",
+    "`테스트`.md",
+    "Clippings/ChatGPT 1.md",
+    "Clippings/ChatGPT 2.md",
+    "01.TODO/2025-12-05.md",
+    "01.TODO/ISSUE/모바일 게시판 점검.md",
+    "Clippings/ESLINT Custom Rules.md",
+    "Clippings/Metatag - Viewport.md",
+    "Clippings/ChatGPT.md",
+    "Clippings/Axios - Token renew.md",
+    "WORK.md",
+    "Files/Pasted image 20250905133733.png",
+    "02.WIKI/근무 관련.md",
+    "02.WIKI/분석/분석.md",
+    "02.WIKI/분석/요소 분석.md",
+    "Inbox/무제.base",
+    "01.TODO/ISSUE/전자결재 결재선 변경 순서 보장.md",
+    "01.TODO/UX/모바일, PC 라우팅.md",
+    "01.TODO/prev",
+    "01.TODO/ISSUE/포털",
+    "01.TODO/ISSUE",
+    "무제.canvas",
+    "01.TODO/UX/로그인",
+    "Files/Pasted image 20250905133811.png",
+    "01TODO/UX",
+    "01TODO",
+    "01.TODO/VDC",
+    "01.TODO/UX",
+    "Inbox/무제 1.base"
+  ]
+}
