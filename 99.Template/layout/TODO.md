@@ -1,5 +1,6 @@
 ---
-date: <% tp.date.now()%>
+title: <% tp.date.now()%>_todo
+date:
 ---
 TODO 
 - [ ] 
@@ -16,3 +17,5 @@ folder includes 01.TODO
 done
 sort by done reverse
 ```
+
+[[01.TODO/TODO|TODO]]
