@@ -5,7 +5,7 @@
       "name": "new_todo",
       "type": "Template",
       "command": false,
-      "templatePath": "99.Template/TASK.md",
+      "templatePath": "99.Template/layout/TASK.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{VALUE}}"
