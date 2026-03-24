@@ -2,13 +2,19 @@
 title: <% tp.date.now()%>_todo
 date:
 ---
+고정내용 
+```dataview
+List
+From "01.TODO/FIX"
+```
+
 TODO 
 - [ ] 
 
 Back LOG
 ```tasks
-folder includes 01.TODO 
 not done
+(path includes 01.TODO/ISSUE) OR (path includes 01.TODO )
 ```
 
 Complete Log
